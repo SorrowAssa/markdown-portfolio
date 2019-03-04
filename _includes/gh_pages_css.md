@@ -11,4 +11,7 @@
         background: rgb(57,62,125);
         background: linear-gradient(180deg, rgba(57,62,125,1) 0%, rgba(42,48,95,1) 100%);
     }
+    .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+        color: #0366d6;
+    }
 </style>
