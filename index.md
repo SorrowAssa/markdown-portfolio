@@ -30,6 +30,11 @@ En attendant une sortie complète, une [démo live est disponible ici !](http://
 Dynamiser un peu plus le jeu. Hors event *Webzen*, certains joueurs crééent des events, mais d'autres hésitent, ou ne franchissent pas le pas faute de connaissance, de moyens, ou tout simplement de confiance en soi.  
 Le but ici est de faciliter la tâche à ceux qui le veulent, et mettre en relation les gens intéressés par la création d'event
 
+## Equipe travaillant sur le projet
+
+[Sagaroth](https://github.com/Sagaroth) *Développeur HTML/CSS/JS/PHP*  
+[SorrowAssa](https://github.com/SorrowAssa) *Développeur amateur, HTML/CSS/JS*
+
 ## Nous contacter
 
 Si vous voulez travailler sur le projet ou proposer une idée, n'hésitez pas ! Même si vous n'avez pas de connaissances en développement !  
@@ -43,10 +48,5 @@ Si vous voulez travailler sur le projet ou proposer une idée, n'hésitez pas ! 
 <a href="https://discord.gg/TODO" target="_blank">
   <img src="https://camo.githubusercontent.com/ebafeb8a236c07b9dda4c9b6288e533fed2d5c69/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" alt="Discord" width="45"/>
 </a>
-
-### Equipe travaillant sur le projet
-
-[Sagaroth](https://github.com/Sagaroth) *Développeur HTML/CSS/JS/PHP*  
-[SorrowAssa](https://github.com/SorrowAssa) *Développeur amateur, HTML/CSS/JS*
 
 <!-- Icons from: https://github.com/edent/SuperTinyIcons -->
