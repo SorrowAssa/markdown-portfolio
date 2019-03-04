@@ -2,9 +2,6 @@
 layout: default
 ---
 
-{% include gh_pages_css.md %}
-
-
 >Rappelz Event Calendar est un calendrier où n'importe quel joueur de Rappelz peut créer son event !  
 
 En attendant une sortie complète, une [démo live est disponible ici !](http://democalendar.stairwaytoweb.fr/index.php?lang=fr)
