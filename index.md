@@ -48,3 +48,5 @@ Si vous voulez travailler sur le projet ou proposer une idée, n'hésitez pas ! 
 
 [Sagaroth](https://github.com/Sagaroth) *Développeur HTML/CSS/JS/PHP*  
 [SorrowAssa](https://github.com/SorrowAssa) *Développeur amateur, HTML/CSS/JS*
+
+<!-- Icons from: https://github.com/edent/SuperTinyIcons -->
