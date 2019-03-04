@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include gh_pages_css.md %}
+{% include gh_pages_css.html %}
 
 Rappelz Event Calendar est un calendrier où n'importe quel joueur de Rappelz peut créer son event !  
 
