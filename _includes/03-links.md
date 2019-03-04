@@ -1,1 +1,0 @@
-[LIIIIINK](http://LIIIIIINK.LINK)
