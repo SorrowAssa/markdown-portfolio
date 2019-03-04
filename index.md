@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include gh_pages.css %}
+{% include gh_pages.html %}
 
 <br>
 
