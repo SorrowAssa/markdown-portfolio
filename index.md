@@ -6,7 +6,7 @@ layout: default
 
 Rappelz Event Calendar est un calendrier où n'importe quel joueur de Rappelz peut créer son event ! 
 
-[Article parlant du calendrier ici](https://historyofrappelz.com/en/rappelz-event-calendar-the-community-platform-for-creating-your-events/).
+[Article parlant du calendrier ici](https://historyofrappelz.com/en/rappelz-event-calendar-the-community-platform-for-creating-your-events/).  
 En attendant une sortie complète, une [démo live est disponible ici !](http://democalendar.stairwaytoweb.fr/index.php?lang=fr)
 
 ## Fonctionnalités
